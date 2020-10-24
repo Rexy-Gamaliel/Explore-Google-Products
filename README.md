@@ -1,5 +1,5 @@
 # Explore-Google-Products
-##### Let's take a look at one of the powerful tools in our Google Product list: [TensorFlow](https://www.tensorflow.org/)
+##### Let's take a look at one of the most powerful tools in our Google Product list: [TensorFlow](https://www.tensorflow.org/)
 
 __*TensorFlow*__ adalah sebuah computional framework untuk membuat Machine Learning (ML) model.
   Dengan menggunakan framework hasil buatan Google Brain ini, komputasi untuk Machine Learning menjadi lebih **cepat dan mudah**, mulai dari memperoleh data, melatih model, membuat prediksi, dan meningkatkan kualitas hasil yang didapat.
